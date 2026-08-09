@@ -29,7 +29,7 @@ The automated test confirms that the calculated total is equal to 2300.
 1. Clone the repository:
 
 ```
-ff
+git clone https://github.com/Kaveeshamalindi/Unit-Test-for-Food-Ordering-System.git
 ```
 2. Open the project in VS Code
 
