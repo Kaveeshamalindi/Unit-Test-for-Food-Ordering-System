@@ -10,7 +10,7 @@ The automated test verifies that the system correctly calculates the total amoun
 
 ## 💠 Testing Objective
 
-The main objective of this automated test is to verify the calculateTotalAmount() method in the FoodOrder class.
+The main objective of this automated test is to verify the ```calculateTotalAmount()``` method in the FoodOrder class.
 
 The test checks whether the system correctly adds the prices of multiple food items and returns the expected total amount.
 
