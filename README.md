@@ -1,6 +1,6 @@
-# Food Ordering System – Automated Testing
+# ✅ Food Ordering System – Automated Testing
 
-## SE2305 – Software Verification and Validation
+## 💠 SE2305 – Software Verification and Validation
 
 This repository contains an example of automated unit testing for a Food Ordering System developed for the SE2305 Software Verification and Validation assignment.
 
@@ -8,7 +8,7 @@ The automated test verifies that the system correctly calculates the total amoun
 
 ---
 
-## Testing Objective
+## 💠 Testing Objective
 
 The main objective of this automated test is to verify the calculateTotalAmount() method in the FoodOrder class.
 
@@ -24,7 +24,20 @@ The automated test confirms that the calculated total is equal to 2300.
 
 ---
 
-## Benefits of Automation
+## 💠 How to Run
+
+1. Clone the repository:
+
+```
+ff
+```
+2. Open the project in VS Code
+
+3. Run the Unit Tests
+
+---
+
+## 💠 Benefits of Automation
 
 **Automating this test provides several benefits:**
 
@@ -37,20 +50,20 @@ The automated test confirms that the calculated total is equal to 2300.
 
 ---
 
-## Limitations
+## 💠 Limitations
 
 **Although automated testing is useful and it also has some limitations:**
 
-Initial development of automated tests requires time.
-Tests need to be maintained when the application changes.
-Automated unit tests cannot completely replace manual testing.
-User interface usability and some real-world user behaviour may require manual testing.
+- Initial development of automated tests requires time.
+- Tests need to be maintained when the application changes.
+- Automated unit tests cannot completely replace manual testing.
+- User interface usability and some real-world user behaviour may require manual testing.
 
 Therefore, automated testing should be combined with other testing approaches.
 
 ---
 
-## Conclusion
+## 💠 Conclusion
 
 This JUnit automation example demonstrates how automated unit testing can be used to verify a key function of a food ordering system. 
 The test automatically checks whether the total price of food items is calculated correctly. 
